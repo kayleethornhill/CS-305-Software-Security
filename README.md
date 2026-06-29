@@ -1,8 +1,11 @@
-# CS-305-Software-Security
-Software security coursework including vulnerability assessments, secure coding practices, and dependency analysis.  
+# CS-305 Software Security
+
+**Course:** CS-305 Software Security  
+**Focus:** Vulnerability Assessment • Secure Coding • Java • Maven • OWASP Dependency-Check
+
 ## Portfolio Artifact
 
-- [CS 305 Project Two Report](artifacts/CS%20305%20Project%20Two.docx)
+- [Artemis-Financial-Practices-for-Secure-Software](artifacts/Artemis-Financial-Secure-Software-Report.docx)
 
 ## Skills Demonstrated
 
